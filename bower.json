@@ -1,0 +1,25 @@
+{
+  "name": "angular-base64",
+  "main": "angular-base64.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jobtitude/angular-base64",
+  "authors": [
+    "Javi Fernández <jfernandez@jobtitude.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jobtitude/angular-base64.git"
+  },
+  "description": "Encode and decode",
+  "dependencies":{
+    "angular": "latest"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
